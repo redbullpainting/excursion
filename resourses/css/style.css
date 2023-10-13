@@ -13,3 +13,12 @@ a {
     color: aquamarine;
     font-size: 16px
 }
+.header2{
+    font-size: 42px;
+    font-weight: 300;
+    color: white;
+    }
+  .paragraph{
+    color: gray;
+    font-size: 21px;
+  }  
